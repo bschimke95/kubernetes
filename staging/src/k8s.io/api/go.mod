@@ -11,8 +11,6 @@ require (
 	k8s.io/apimachinery v0.0.0
 )
 
-require github.com/stretchr/testify v1.11.1 // indirect
-
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/fxamacker/cbor/v2 v2.9.0 // indirect
